@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.375">
+<testcase classname="Merchante User Creation" name="_2" time="14.136">
+<failure message="The scenario has pending or undefined step(s)" type="io.cucumber.java.PendingException"><![CDATA[Given user Lauch the application url "BaseUrl" and verfiy page title........passed
+And user click on user button...............................................passed
+And user click on new user button...........................................pending
+When user enter the details and click on create user button.................skipped
+Then user see the success message and details on the page...................skipped
+]]></failure>
+</testcase>
+</testsuite>
